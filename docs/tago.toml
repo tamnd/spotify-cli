@@ -1,0 +1,10 @@
+title       = "spot"
+baseURL     = "https://spotify-cli.tamnd.com/"
+description = "Read Spotify music data"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/spotify-cli"
